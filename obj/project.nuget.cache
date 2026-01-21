@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+h3V/sxHRKE=",
+  "dgSpecHash": "T6hvG1wR9kc=",
   "success": true,
   "projectFilePath": "/Users/vladislavmaksakov/Desktop/Learning/БПД/LR3/LR3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/vladislavmaksakov/.nuget/packages/sixlabors.imagesharp/3.1.12/sixlabors.imagesharp.3.1.12.nupkg.sha512",
+    "/Users/vladislavmaksakov/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/vladislavmaksakov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512",
+    "/Users/vladislavmaksakov/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512"
+  ],
   "logs": []
 }
